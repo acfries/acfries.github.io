@@ -4,6 +4,8 @@ nav:
     - Resume: resume.md
     - About Me: about.md
 
+remote_branch: 'master'
+
 theme:
     name: simplex
     language: 'en'
