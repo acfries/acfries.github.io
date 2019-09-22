@@ -7,7 +7,7 @@ nav:
 remote_branch: 'master'
 
 theme:
-    name: simplex
+    name: material
     language: 'en'
     
 
