@@ -8,12 +8,9 @@ markdown_extensions:
   - admonition
 
 nav:
-  - Home: 
-    - Home: index.md
-  - Resume: 
-    - My Resume : resume/resume.md
-  - About: 
-    - About Me: about/about.md
+  - Home: index.md
+  - My Resume: resume.md
+  - About Me: about.md
 
 remote_branch: 'master'
 
