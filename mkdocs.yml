@@ -1,7 +1,7 @@
 site_name: Alex Fries Carto
 
 plugins:
-  - mkdocs-nav-enhancements
+  - awesome-pages
 
 markdown_extensions:
   - admonition
