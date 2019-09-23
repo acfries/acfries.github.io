@@ -1,7 +1,9 @@
-site_name: Alex Fries
+site_name: Alex Fries Carto
 nav:
-    - Home: index.md
-    - Resume: resume.md
+  - Home: index.md
+  - Resume: 
+    - Resume : resume.md
+  - About: 
     - About Me: about.md
 
 remote_branch: 'master'
