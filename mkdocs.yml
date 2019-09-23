@@ -13,6 +13,10 @@ theme:
     palette:
       primary: 'blue grey'
       accent: 'blue grey'
+    logo:
+      icon: 'terrain'
+    feature:
+      tabs: true
 
 extra_css:
   - 'stylesheets/extra.css'
@@ -21,6 +25,8 @@ extra:
   social: 
     - type: 'twitter'
       link: 'https://twitter.com/Carto_ALex'
+    - type: 'linkedin'
+      link: 'https://www.linkedin.com/in/alexander-fries-097685174/'
     - type: 'github'
       link: 'https://github.com/acfries'
 
