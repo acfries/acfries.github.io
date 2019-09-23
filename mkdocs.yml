@@ -1,8 +1,10 @@
 site_name: Alex Fries Carto
 
-plugins: 
-    - awesome-pages:
-        collapse_single_pages: true
+plugins:
+  - mkdocs-nav-enhancements
+
+markdown_extensions:
+  - admonition
 
 nav:
   - Home: index.md
