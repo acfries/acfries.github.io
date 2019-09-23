@@ -9,6 +9,7 @@ remote_branch: 'master'
 theme:
     name: material
     language: 'en'
+    custom_dir: 'theme'
 
 extra_css:
   - 'stylesheets/extra.css'
