@@ -2,7 +2,7 @@ site_name: Alex Fries Carto
 nav:
   - Home: index.md
   - Resume: 
-    - Resume : resume.md
+    - My Resume : resume.md
   - About: 
     - About Me: about.md
 

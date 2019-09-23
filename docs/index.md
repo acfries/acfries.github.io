@@ -1,14 +1,5 @@
-# Welcome to MkDocs
+# Welcome to My Cartographic Portfolio
+!
+Please feel free to browse and explore some of the maps I've created or contributed to.
 
-For full documentation visit [mkdocs.org](https://mkdocs.org).
-
-## Commands
-
-* Hello world!
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+>:warning: Apologies for the mess! This site is currently under construction.
