@@ -8,7 +8,8 @@ markdown_extensions:
   - admonition
 
 nav:
-  - Home: index.md
+  - Home: 
+    - Home: index.md
   - Resume: 
     - My Resume : resume/resume.md
   - About: 
