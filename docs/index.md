@@ -1,5 +1,4 @@
-# Portfolio
-## Welcome to my cartography portfolio!
+# Welcome to my cartography portfolio!
 
 Please feel free to browse and explore some of the maps I've created or contributed to.
 

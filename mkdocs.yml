@@ -1,8 +1,7 @@
 site_name: Alex Fries Carto
 
 plugins:
-  - awesome-pages:
-      collapse_single_pages: true
+  - awesome-pages
 
 markdown_extensions:
   - admonition
