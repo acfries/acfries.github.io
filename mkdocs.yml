@@ -26,6 +26,7 @@ theme:
       icon: 'terrain'
     feature:
       tabs: true
+    include_sidebar: false
 
 extra_css:
   - 'stylesheets/extra.css'
