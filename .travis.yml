@@ -3,6 +3,7 @@ python: 3.7
 
 install:
   - pip install -U mkdocs-material
+  - pip install mkdocs-awesome-pages-plugin
 
 script:
   - mkdocs build
