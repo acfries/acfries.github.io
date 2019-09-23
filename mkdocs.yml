@@ -7,9 +7,12 @@ nav:
 remote_branch: 'master'
 
 theme:
-    name: material
+    name: 'material'
+    custom_dir: 'theme'
     language: 'en'
-    custom_dir: theme/
+    palette:
+      primary: 'blue grey'
+      accent: 'blue grey'
 
 extra_css:
   - 'stylesheets/extra.css'
