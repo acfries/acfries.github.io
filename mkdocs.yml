@@ -9,9 +9,9 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Resume:
-    -My Resume: resume.md
+    - My Resume: resume.md
   - About:
-    -About Me: about.md
+    - About Me: about.md
 
 remote_branch: 'master'
 
