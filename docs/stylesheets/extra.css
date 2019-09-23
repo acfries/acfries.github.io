@@ -7,7 +7,7 @@
 
 /*Hide Navigation Sidebar on Large Screens*/
 
-@media only screen and (min-width: 60em) {
+@media only screen and (min-width: 76.25em) {
 	.md-sidebar--primary {
   	  display: none;
 	}
