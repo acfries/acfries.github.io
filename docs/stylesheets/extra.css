@@ -20,3 +20,57 @@
     margin-left:  0;
   }
 }
+
+/*Image Styling*/
+
+img {
+  border-radius: 4px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.thumb {
+  opacity: 1;
+  display: block;
+  width: 33%;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+
+.container:hover .thumb {
+  opacity: 0.3;
+}
+
+/*Portfolio Gallery Styling*/
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
+.column {
+  flex: 25%;
+  max-width: 25%;
+  padding: 0 4px;
+}
+
+.column img {
+  margin-top: 8px;
+  vertical-align: middle;
+  width: 100%;
+}
+
+@media screen and (max-width: 76.25em) {
+  .column {
+    flex: 50%;
+    max-width: 50%;
+  }
+}
+
+@media screen and (max-width: 60em) {
+  .column {
+    flex: 100%;
+    max-width: 100%;
+  }
+}
