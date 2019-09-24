@@ -4,22 +4,22 @@ Please feel free to browse and explore some of the maps I've created or contribu
 
 ---
 
-!!! warning Construction Zone Ahead!
+!!! warning "Construction Zone Ahead!"
 	Apologies for the mess! This site is currently under construction.
 
 
 
 <div class="row">
 	<div class="column">
-		<img class="thumb" src="image/bankhead_highway.jpg" alt="">
+		<img class="thumb" src="img/bankhead_highway.jpg" alt="">
 	</div>
 	<div class="column">
-		<img class="thumb" src="image/tibesti.jpg" alt="">
+		<img class="thumb" src="img/tibesti.jpg" alt="">
 	</div>
 	<div class="column">
-		<img class="thumb" src="image/na_physioregions.jpg" alt="">
+		<img class="thumb" src="img/na_physioregions.jpg" alt="">
 	</div>
 	<div class="column">
-		<img class="thumb" src="image/olympusmons.jpg" alt="">
+		<img class="thumb" src="img/olympusmons.jpg" alt="">
 	</div>
 </div>
