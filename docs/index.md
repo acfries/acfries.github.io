@@ -14,7 +14,7 @@ Please feel free to browse and explore some of the maps I've created or contribu
 		<div class="entry">
 			<a href="portfolio/bankhead"><img class="thumb" src="img/bankhead_highway.jpg" alt=""></a>
 			<div class="thumb_label">
-				<div class="label_text"><a href="portfolio/bankhead">Alabama's Bankhead Family<a/></div>
+				<div class="label_text"><a href="portfolio/bankhead">Alabama's Bankhead Family</a></div>
 			</div>
 		</div>
 	</div>
