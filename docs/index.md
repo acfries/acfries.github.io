@@ -25,12 +25,17 @@ Please feel free to browse and explore some of the maps I've created or contribu
 	</div>
 	<div class="column">
 		<div class="entry">
-			<img class="thumb" src="img/na_physioregions.jpg" alt="">
+			<img class="thumb" src="img/na_physioregions_thumb.jpg" alt="">
 		</div>
 	</div>
 	<div class="column">
 		<div class="entry">
 			<img class="thumb" src="img/olympusmons_thumb.jpg" alt="">
+		</div>
+	</div>
+	<div class="column">
+		<div class="entry">
+			<img class="thumb" src="img/selmatoclaiborne_thumb.jpg" alt="">
 		</div>
 	</div>
 </div>
