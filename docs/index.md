@@ -11,7 +11,7 @@ Please feel free to browse and explore some of the maps I've created or contribu
 
 <div class="row">
 	<div class="column">
-		<img class="thumb" src="img/bankhead_highway.jpg" alt="">
+		<a href="portfolio/bankhead.md"><img class="thumb" src="img/bankhead_highway.jpg" alt=""></a>
 	</div>
 	<div class="column">
 		<img class="thumb" src="img/tibesti.jpg" alt="">

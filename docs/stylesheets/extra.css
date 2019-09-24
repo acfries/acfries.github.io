@@ -37,7 +37,7 @@ img {
   backface-visibility: hidden;
 }
 
-.container:hover .thumb {
+.thumb:hover {
   opacity: 0.3;
 }
 
