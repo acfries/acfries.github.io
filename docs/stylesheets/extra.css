@@ -53,10 +53,10 @@ img {
 }
 
 .entry:hover .thumb {
-  opacity: 0.2;
+  opacity: 0.33;
 }
 
-.container:hover .thumb_text {
+.entry:hover .thumb_text {
   opacity: 1;
 }
 
