@@ -11,7 +11,12 @@ Please feel free to browse and explore some of the maps I've created or contribu
 
 <div class="row">
 	<div class="column">
-		<a href="portfolio/bankhead.md"><img class="thumb" src="img/bankhead_highway.jpg" alt=""></a>
+		<div class="entry">
+			<a href="portfolio/bankhead.md"><img class="thumb" src="img/bankhead_highway.jpg" alt=""></a>
+			<div class="thumb_text">
+				<div class="text">Alabama's Bankhead Family</div>
+			</div>
+		</div>
 	</div>
 	<div class="column">
 		<img class="thumb" src="img/tibesti.jpg" alt="">

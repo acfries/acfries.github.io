@@ -1,4 +1,4 @@
-site_name: Alex Fries Carto
+site_name: Alex Fries Maps
 
 plugins:
   - awesome-pages
@@ -20,8 +20,8 @@ theme:
     custom_dir: 'theme'
     language: 'en'
     palette:
-      primary: 'blue grey'
-      accent: 'blue grey'
+      primary: 'red'
+      accent: 'red'
     logo:
       icon: 'terrain'
     feature:
