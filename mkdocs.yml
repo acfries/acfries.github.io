@@ -20,8 +20,8 @@ theme:
     custom_dir: 'theme'
     language: 'en'
     palette:
-      primary: 'red'
-      accent: 'red'
+      primary: 'brown'
+      accent: 'brown'
     logo:
       icon: 'terrain'
     feature:

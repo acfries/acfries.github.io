@@ -12,7 +12,7 @@ Please feel free to browse and explore some of the maps I've created or contribu
 <div class="row">
 	<div class="column">
 		<div class="entry">
-			<a href="portfolio/bankhead"><img class="thumb" src="img/bankhead_highway.jpg" alt=""></a>
+			<a href="portfolio/bankhead"><img class="thumb" src="img/bankhead_al1820_thumb.jpg" alt=""></a>
 			<div class="thumb_label">
 				<div class="label_text"><a href="portfolio/bankhead">Alabama's Bankhead Family</a></div>
 			</div>
@@ -20,7 +20,7 @@ Please feel free to browse and explore some of the maps I've created or contribu
 	</div>
 	<div class="column">
 		<div class="entry">
-			<img class="thumb" src="img/tibesti.jpg" alt="">
+			<img class="thumb" src="img/tibesti_thumb.jpg" alt="">
 		</div>
 	</div>
 	<div class="column">
@@ -30,7 +30,7 @@ Please feel free to browse and explore some of the maps I've created or contribu
 	</div>
 	<div class="column">
 		<div class="entry">
-			<img class="thumb" src="img/olympusmons.jpg" alt="">
+			<img class="thumb" src="img/olympusmons_thumb.jpg" alt="">
 		</div>
 	</div>
 </div>
