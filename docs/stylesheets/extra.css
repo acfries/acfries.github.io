@@ -56,13 +56,14 @@ img {
   opacity: 0.33;
 }
 
-.entry:hover .thumb_text {
+.entry:hover .thumb_label {
   opacity: 1;
 }
 
-.text {
-  color: black;
-  font-size: 24px;
+.label_text {
+  color: #1A1A1A;
+  font-size: 20px;
+  font-style: italic;
   padding: 16px 16px;
 }
 
