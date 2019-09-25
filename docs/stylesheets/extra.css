@@ -23,30 +23,28 @@
 
 /*Image Styling*/
 
-.gallery {
-	display: grid;
-	grid-gap: 8px;
-	grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-	grid-auto-rows: 250px 150px;
-	grid-auto-flow: dense;
-}
-
-.entry {
-	position: relative;
-	width: 100%;
-	height: 100%;
-	object-fit: cover;
-}
-
-@media screen (min-width: 76.25em) {
-	first-child.gallery{
-		grid-area: 1 / 1 / span 2 / span 2;
-	}
-}
-
 img {
   	border-radius: 4px;
   	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.gallery {
+  display: grid;
+  grid-gap: 20px;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  grid-auto-rows: 300px 200px;
+  grid-auto-flow: dense;
+}
+.gallery .entry img {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+@media (min-width: 76.25em) {
+  .gallery .entry:first-child {
+    grid-area: 1/1/span 2/span 2;
+  }
 }
 
 img.feature {
