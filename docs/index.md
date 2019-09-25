@@ -40,4 +40,14 @@ Please feel free to browse and explore some of the maps I've created or contribu
 	<div class="entry">
 		<img class="thumb" src="img/florida_znh_thumb.jpg" alt="">
 	</div>
+	<div class="entry">
+		<img class="thumb" src="img/ww1_ardennes_thumb.jpg" alt="">
+	</div>
+	<div class="entry">
+		<img class="thumb" src="img/watermills_thumb.jpg" alt="">
+	</div>
+	<div class="entry">
+		<img class="thumb" src="img/hispaniola_thumb.jpg" alt="">
+	</div>
+
 </div>
