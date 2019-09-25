@@ -12,4 +12,4 @@ The maps themselves largely deal with intersections between Alabama history and 
 
 The second map depicts the route of the Bankhead Highway, which was established in 1916 and served as the first transcontinental automobile route to traverse the southern half of the United States. The highway was named for John H. Bankhead, who was often referred to as the "Father of Good Roads" due to his role as one of the first advocated for road construction in the United States. Among the many other towns and cities that could be found along its route, the Bankhead Highway passed through Jasper, Alabama, which was the home of the Bankhead family for many decades.
 
-<a href="../../img/bankhead_al1820.jpg"><img class="feature_right" src="../../img/bankhead_highway.jpg" alt=""></a>
+<a href="../../img/bankhead_highway.jpg"><img class="feature_right" src="../../img/bankhead_highway.jpg" alt=""></a>
