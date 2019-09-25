@@ -21,11 +21,20 @@ Please feel free to browse and explore some of the maps I've created or contribu
 		<div class="entry">
 			<img class="thumb" src="img/olympusmons_thumb.jpg" alt="">
 		</div>
+		<div class="entry">
+			<img class="thumb" src="img/florida_znh_thumb.jpg" alt="">
+		</div>
 	</div>
 <!-- Second Column -->
 	<div class="column">
 		<div class="entry">
 			<img class="thumb" src="img/selmatoclaiborne_thumb.jpg" alt="">
+		</div>
+		<div class="entry">
+			<img class="thumb" src="img/stclairco_thumb.jpg" alt="">
+		</div>
+		<div class="entry">
+			<img class="thumb" src="img/alabama_thumb.jpg" alt="">
 		</div>
 	</div>
 <!-- Third Column -->
@@ -35,6 +44,9 @@ Please feel free to browse and explore some of the maps I've created or contribu
 		</div>
 		<div class="entry">
 			<img class="thumb" src="img/tibesti_thumb.jpg" alt="">
+		</div>
+		<div class="entry">
+			<img class="thumb" src="img/tuscaloosacothumb.jpg" alt="">
 		</div>
 	</div>
 </div>
