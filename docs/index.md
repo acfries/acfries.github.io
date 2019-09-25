@@ -20,13 +20,13 @@ Please feel free to browse and explore some of the maps I've created or contribu
 		</div>
 	</div>
 	<div class="entry">
-		<a href="portfolio/tibesti"><img class="thumb" src="img/selmatoclaiborne_thumb.jpg" alt=""></a>
+		<img class="thumb" src="img/selmatoclaiborne_thumb.jpg" alt="">
+		</div>
+	<div class="entry">
+		<a href="portfolio/tibesti"><img class="thumb" src="img/tibesti_thumb.jpg" alt=""></a>
 		<div class="thumb_label">
 			<div class="label_text"><a href="portfolio/bankhead">The Tibesti Mountains</a></div>
 		</div>
-	</div>
-	<div class="entry">
-		<img class="thumb" src="img/tibesti_thumb.jpg" alt="">
 	</div>
 	<div class="entry">
 		<img class="thumb" src="img/na_physioregions_thumb.jpg" alt="">
