@@ -57,17 +57,17 @@ img.feature_right {
     width: : 100%;
     float: right;
     margin-top: 7.5px;
-    margin-bottom: 50px;
+    margin-bottom: 20px;
     margin-left: 40px;
     border-radius: 8px;
     box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.25);
 }
 
 img.feature_left {
-    width: : 100%;
+    width: 100%;
     float: left;
     margin-top: 7.5px;
-    margin-bottom: 50px;
+    margin-bottom: 20px;
     margin-right: 40px;
     border-radius: 8px;
     box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.25);
