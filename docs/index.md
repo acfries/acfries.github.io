@@ -9,7 +9,7 @@ Please feel free to browse and explore some of the maps I've created or contribu
 
 
 
-<div class="grid">
+<div class="gallery">
 	<div class="entry">
 		<img class="thumb" src="img/alabama_thumb.jpg" alt="">
 	</div>
