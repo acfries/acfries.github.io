@@ -74,11 +74,17 @@ img.feature_left {
 }
 
 @media only screen and (min-width: 76.25em) {
-	img.feature_left, img.feature_right {
+	img.feature_left {
   	  width: 33%;
       margin-left: auto;
-      margin-right: auto;
 	}
+}
+
+@media only screen and (min-width: 76.25em) {
+  img.feature_right {
+      width: 33%;
+      margin-right: auto;
+  }
 }
 
 .thumb {
