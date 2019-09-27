@@ -53,15 +53,6 @@ img {
   }
 }
 
-img.feature_full {
-    width: : 100%;
-    margin-top: 7.5px;
-    margin-bottom: 20px;
-    margin-left: 40px;
-    border-radius: 8px;
-    box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.25);
-}
-
 img.feature_right {
     width: : 100%;
     float: right;
@@ -80,13 +71,6 @@ img.feature_left {
     margin-right: 40px;
     border-radius: 8px;
     box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.25);
-}
-
-@media only screen and (min-width: 76.25em) {
-  img.feature_full {
-      width: 50%;
-      margin-left: auto;
-  }
 }
 
 @media only screen and (min-width: 76.25em) {
