@@ -1,4 +1,4 @@
-# Alabama's Bankhead Family
+# The Bankhead Family
 ---
 
 !!! warning "Construction Zone Ahead!"
