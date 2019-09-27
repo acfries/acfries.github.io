@@ -1,7 +1,7 @@
 # Physiographic Regions of North America
 ---
 
-<a href="../../img/na_physiogregions.jpg"><img class="feature_left" src="../../img/na_physiogregions.jpg" alt=""></a>
+<a href="../../img/na_physioregions.jpg"><img class="feature_left" src="../../img/na_physioregions.jpg" alt=""></a>
 
 In the pre-production phase of our lab's work on the maps for the upcoming second edition of *Rivers of North America*, one of the first data processing tasks that I undertook was to go through various sources' information on the physiographic regions of North America and delineate their boundaries, since each river basin's map was asked to include demarcations that show the approximate boundaries of physiographic regions over which a river or its watershed traverses. These regions were also defined on the maps found in the book's first edition; however, I quickly decided against using those same boundary lines when I noticed that the original lines had been based on a source that often used otherwise-arbitary international borders to define physiographic boundaries. A quick glance through additional sources made it quite clear that, for example, the 49th parallel does *not* actually divide the Northern Rocky Mountains from the Canadian Rockies, or at least certainly not from any geological or ecological standpoint.
 
