@@ -1,9 +1,6 @@
 # The Tibesti Mountains
 ---
 
-!!! warning "Construction Zone Ahead!"
-	Apologies for the mess! This site is currently under construction.
-
 <a href="../../img/tibesti.jpg"><img class="feature_full" src="../../img/tibesti.jpg" alt=""></a>
 
 In the pre-production phase of my work on the second edition of *Rivers of North America*, much of my time was spent deciding what methods I would employ to create the shaded relief that would go into nearly all of the book's maps. The trick was for me to find a method that was both relatively quick and could give striking, yet clear representations of terrain. Eventually, I came across **Pyramid Shader**, which was developed by Bernhard Jenny and Charles Preppernau during their time at Oregon State University. 

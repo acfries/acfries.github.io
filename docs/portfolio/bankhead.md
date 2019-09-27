@@ -1,8 +1,5 @@
-# Alabama's Bankhead Family
+# The Bankhead Family
 ---
-
-!!! warning "Construction Zone Ahead!"
-	Apologies for the mess! This site is currently under construction.
 
 This past summer, our lab was tasked with making a series of maps of maps for an upcoming book about the Bankheads, a family from Alabama that for three generations ranked among the most prominent families in all of the United States. Members of this family included the family patriarch, John H. Bankhead, who was a captain in the Confederate Army before representing the state of Alabama in both the House of Representatives and the Senate; John's son, William B. Bankhead, whose own prominent career in the House of Representatives eventually culminated in him serving as Speaker of the House between 1936 and 1940; and William's daughter, Tallulah Bankhead, an actress of critical acclaim on both stage and screen throughout much of the early 20th century.
 
