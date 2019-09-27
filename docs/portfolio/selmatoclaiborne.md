@@ -1,4 +1,5 @@
 # From Selma to Claiborne
+---
 
 <a href="../../img/selmatoclaiborne.jpg"><img class="feature_left" src="../../img/selmatoclaiborne.jpg" alt=""></a>
 
