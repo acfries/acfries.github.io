@@ -141,7 +141,7 @@ img.feature_left {
 }
 
 .entry:hover .thumb {
-    opacity: 0.33;
+    opacity: 0.50;
 }
 
 .entry:hover .thumb_label {
