@@ -44,7 +44,10 @@ Please feel free to browse and explore some of the maps I've created or contribu
 		</div>
 	</div>
 	<div class="entry">
-		<img class="thumb" src="img/stclairco_thumb.jpg" alt="">
+		<a href="portfolio/stclairco"><img class="thumb" src="img/stclairco_thumb.jpg" alt=""></a>
+		<div class="thumb_label">
+			<div class="label_text"><a href="portfolio/stclairco">St. Clair County, Alabama</a></div>
+		</div>
 	</div>
 	<div class="entry">
 		<img class="thumb" src="img/tuscaloosaco_thumb.jpg" alt="">
