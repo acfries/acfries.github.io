@@ -56,13 +56,16 @@ Please feel free to browse and explore some of the maps I've created or contribu
 		</div>
 	</div>
 	<div class="entry">
-		<a href="portfolio/florida_znh"></a><img class="thumb" src="img/florida_znh_thumb.jpg" alt="">
+		<a href="portfolio/florida_znh"><img class="thumb" src="img/florida_znh_thumb.jpg" alt=""></a>
 		<div class="thumb_label">
 			<div class="label_text"><a href="portfolio/florida_znh">Zora Neale Hurston in Florida</a></div>
 		</div>
 	</div>
 	<div class="entry">
-		<img class="thumb" src="img/ww1_ardennes_thumb.jpg" alt="">
+		<a href="portfolio/ww1"><img class="thumb" src="img/ww1_ardennes_thumb.jpg" alt=""></a>
+		<div class="thumb_label">
+			<div class="label_text"><a href="portfolio/ww1">On the Point in the Argonne</a></div>
+		</div>
 	</div>
 	<div class="entry">
 		<img class="thumb" src="img/watermills_thumb.jpg" alt="">
