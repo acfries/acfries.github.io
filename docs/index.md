@@ -56,7 +56,10 @@ Please feel free to browse and explore some of the maps I've created or contribu
 		</div>
 	</div>
 	<div class="entry">
-		<img class="thumb" src="img/florida_znh_thumb.jpg" alt="">
+		<a href="portfolio/florida_znh"></a><img class="thumb" src="img/florida_znh_thumb.jpg" alt="">
+		<div class="thumb_label">
+			<div class="label_text"><a href="portfolio/florida_znh">Zora Neale Hurston in Florida</a></div>
+		</div>
 	</div>
 	<div class="entry">
 		<img class="thumb" src="img/ww1_ardennes_thumb.jpg" alt="">
