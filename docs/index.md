@@ -50,7 +50,10 @@ Please feel free to browse and explore some of the maps I've created or contribu
 		</div>
 	</div>
 	<div class="entry">
-		<img class="thumb" src="img/tuscaloosaco_thumb.jpg" alt="">
+		<a href="portfolio/almisc"><img class="thumb" src="img/tuscaloosaco_thumb.jpg" alt=""></a>
+		<div class="thumb_label">
+			<div class="label_text"><a href="portfolio/almisc">Alabama Miscellany</a></div>
+		</div>
 	</div>
 	<div class="entry">
 		<img class="thumb" src="img/florida_znh_thumb.jpg" alt="">
