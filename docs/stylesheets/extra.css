@@ -108,8 +108,8 @@ img.feature_left {
 
 .feature_multi {
   display: grid;
-  grid-gap: 25px;
-  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  grid-gap: 50px;
+  grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
   grid-auto-rows: 300px 200px;
   grid-auto-flow: dense;
 }
@@ -141,7 +141,7 @@ img.feature_left {
 }
 
 .entry:hover .thumb {
-    opacity: 0.50;
+    opacity: 0.25;
 }
 
 .entry:hover .thumb_label {
