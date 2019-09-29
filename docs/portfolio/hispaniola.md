@@ -7,4 +7,4 @@ In early 2018, I had the opportunity to work on a series of maps meant to comple
 
 The first map shown here depicts the island of Hispaniola prior to the [Devastations of Osorio](https://en.wikipedia.org/wiki/Devastations_of_Osorio) in 1605, while the other is a more general map of Spanish possessions in the Caribbean during the same time period.
 
-<a href="../../img/carribean.jpg"><img class="feature_full" src="../../img/carribean.jpg" alt=""></a>
+<a href="../../img/caribbean.jpg"><img class="feature_full" src="../../img/caribbean.jpg" alt=""></a>
