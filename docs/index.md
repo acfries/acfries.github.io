@@ -68,7 +68,10 @@ Please feel free to browse and explore some of the maps I've created or contribu
 		</div>
 	</div>
 	<div class="entry">
-		<img class="thumb" src="img/watermills_thumb.jpg" alt="">
+		<a href="portfolio/watermills"><img class="thumb" src="img/watermills_thumb.jpg" alt=""></a>
+		<div class="thumb_label">
+			<div class="label_text"><a href="portfolio/watermills">Historic Watermills of North America</a></div>
+		</div>
 	</div>
 	<div class="entry">
 		<img class="thumb" src="img/hispaniola_thumb.jpg" alt="">
