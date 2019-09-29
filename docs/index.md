@@ -74,7 +74,10 @@ Please feel free to browse and explore some of the maps I've created or contribu
 		</div>
 	</div>
 	<div class="entry">
-		<img class="thumb" src="img/hispaniola_thumb.jpg" alt="">
+		<a href="portfolio/hispaniola"><img class="thumb" src="img/hispaniola_thumb.jpg" alt=""></a>
+		<div class="thumb_label">
+			<div class="label_text"><a href="portfolio/hispaniola">Spanish Hispaniola</a></div>
+		</div>
 	</div>
 
 </div>
