@@ -1,4 +1,4 @@
-site_name: Alex Fries Maps
+site_name: Maps by Alex Fries
 
 plugins:
   - awesome-pages
@@ -22,11 +22,11 @@ theme:
     palette:
       primary: 'brown'
       accent: 'brown'
-    logo:
-      icon: 'terrain'
+    logo: 'img/logo.svg'
     feature:
       tabs: true
     font: 'Open Sans'
+    favicon: 'img/logo.ico'
 
 extra_css:
   - 'stylesheets/extra.css'
