@@ -11,7 +11,10 @@ Please feel free to browse and explore some of the maps I've created or contribu
 
 <div class="gallery">
 	<div class="entry">
-		<img class="thumb" src="img/alabama_thumb.jpg" alt="">
+		<a href="portfolio/alabama"><img class="thumb" src="img/alabama_thumb.jpg" alt=""></a>
+		<div class="thumb_label">
+			<div class="label_text"><a href="portfolio/alabama"><b>FEATURED MAP</b><br>Alabama: Its Landforms and Natural Features</a></div>
+		</div>
 	</div>
 	<div class="entry">
 		<a href="portfolio/bankhead"><img class="thumb" src="img/bankhead_al1820_thumb.jpg" alt=""></a>
