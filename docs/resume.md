@@ -1,4 +1,4 @@
-# *Alexander C. Fries*
+# Alexander C. Fries
 ---
 
 ## Education

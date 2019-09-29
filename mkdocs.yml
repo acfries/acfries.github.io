@@ -9,9 +9,9 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Resume:
-    - My Resume: resume.md
+    - Alex Fries | Resume: resume.md
   - About:
-    - About Me: about.md
+    - Alex Fries | About: about.md
 
 remote_branch: 'master'
 
