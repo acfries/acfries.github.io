@@ -1,6 +1,6 @@
 # Alabama: Its Landforms and Natural Features
----
-## Winner of the 2018 North American Cartographic Information Design Award for Best Student Design
+
+## Winner of the 2018 North American Cartographic Information Society's Student Award for Best Design
 ---
 
 <a href="../../img/alabama.jpg"><img class="feature_full" src="../../img/alabama.jpg" alt=""></a>
