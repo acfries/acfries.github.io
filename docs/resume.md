@@ -20,12 +20,16 @@
 
 #### August 2018 - PRESENT
 * Graduate research assistant/cartographer
-	* Create print and web-based cartographic products for a large and varied clientele
+	* Lead and assist personnel in all stages of lab projects.
+	* Produce maps and perform geospatial analyses for a wide range of clientele.
+	* Update and maintain lab’s online repository of maps and aerial photography. 
+
 
 #### January 2016 - August 2018
 * Undergraduate research assistant
-	* Produced print maps for lab clientele
-	* Assisted in the upkeep, maintenance, and improvement of the lab's online collection of historical maps and aerial photography
+	* Produced maps for a variety of individuals, publications, and organizations.
+	* Performed geospatial analyses for a wide range of clientele. 
+	* Scanned, cataloged, organized, and uploaded historic maps and atlases to lab’s website.
 
 
 ## Skills
@@ -58,14 +62,17 @@ Strong writing, presentation, and organization skills
 ## Involvement
 
 #### Club Geography
-* President, August 2019 - PRESENT
+* **President**, August 2019 - PRESENT
 
 #### UA Housing and Residential Communities
-* Resident Advisor, July 2015 - May 2018
+* **Resident Advisor**, July 2015 - May 2018
+
+#### Department of History Peer Mentoring Program
+* **Peer Mentor**, January 2016 - May 2018
 
 #### History Club
-* President, January - May 2017
+* **President**, January - May 2017
 
 #### Boys and Girls Club of the Wiregrass
-* Program Staff, June - August 2014 &#124; May - July 2015
+* **Program Staff**, June - August 2014 &#124; May - July 2015
 
