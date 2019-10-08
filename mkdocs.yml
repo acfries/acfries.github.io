@@ -1,7 +1,8 @@
 site_name: Maps by Alex Fries
 
 plugins:
-  - awesome-pages
+  - awesome-pages:
+      collapse_single_pages: true
 
 markdown_extensions:
   - admonition
@@ -9,9 +10,9 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Resume:
-    - Resume: resume.md
+    - Resume: resume/index.md
   - About:
-    - About: about.md
+    - About: about/index.md
 
 remote_branch: 'master'
 
