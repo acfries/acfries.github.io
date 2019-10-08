@@ -8,10 +8,8 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - Resume:
-    - Alex Fries | Resume: resume.md
-  - About:
-    - Alex Fries | About: about.md
+  - Resume: resume.md
+  - About: about.md
 
 remote_branch: 'master'
 

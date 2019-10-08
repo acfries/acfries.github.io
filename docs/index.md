@@ -4,11 +4,6 @@ Please feel free to browse and explore some of the maps I've created or contribu
 
 ---
 
-!!! warning "Construction Zone Ahead!"
-	Apologies for the mess! This site is currently under construction.
-
-
-
 <div class="gallery">
 	<div class="entry">
 		<a href="portfolio/alabama"><img class="thumb" src="img/alabama_thumb.jpg" alt=""></a>
