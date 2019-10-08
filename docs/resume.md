@@ -74,5 +74,6 @@ Strong writing, presentation, and organization skills
 * **President**, January - May 2017
 
 #### Boys and Girls Club of the Wiregrass
-* **Program Staff**, June - August 2014 &#124; May - July 2015
+* **Summer Core Staff**, May - July 2015
+* **Summer Program Staff**, June - August 2014
 
