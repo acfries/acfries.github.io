@@ -8,8 +8,10 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - Resume: resume.md
-  - About: about.md
+  - Resume:
+    - Resume: resume.md
+  - About:
+    - About: about.md
 
 remote_branch: 'master'
 
