@@ -12,6 +12,12 @@ Please feel free to browse and explore some of the maps I've created or contribu
 		</div>
 	</div>
 	<div class="entry">
+		<a href="portfolio/riversofna"><img class="thumb" src="img/RoNA_Klondike_thumb.jpg" alt=""></a>
+		<div class="thumb_label">
+			<div class="label_text"><a href="portfolio/bankhead">Rivers of North America</a></div>
+		</div>
+	</div>
+	<div class="entry">
 		<a href="portfolio/bankhead"><img class="thumb" src="img/bankhead_al1820_thumb.jpg" alt=""></a>
 		<div class="thumb_label">
 			<div class="label_text"><a href="portfolio/bankhead">The Bankhead Family</a></div>
