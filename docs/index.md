@@ -68,7 +68,7 @@ Please feel free to browse and explore some of the maps I've created or contribu
 	<div class="entry">
 		<a href="portfolio/ww1"><img class="thumb" src="img/ww1_ardennes_thumb.jpg" alt=""></a>
 		<div class="thumb_label">
-			<div class="label_text"><a href="portfolio/ww1">On the Point in the Argonne</a></div>
+			<div class="label_text"><a href="portfolio/ww1">On Point in the Argonne</a></div>
 		</div>
 	</div>
 	<div class="entry">
