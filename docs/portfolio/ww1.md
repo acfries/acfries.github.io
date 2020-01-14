@@ -1,4 +1,4 @@
-# On the Point in the Argonne
+# On Point in the Argonne
 ---
 
 <div class="feature_multi">
