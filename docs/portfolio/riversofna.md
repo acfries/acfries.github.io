@@ -1,7 +1,7 @@
 # Rivers of North America
 ---
 
-<iframe width="560" height="315" style="float:left" src="https://www.youtube.com/embed/u56yE70svqI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" style="float:left; margin-right:15px; margin-bottom:5px" src="https://www.youtube.com/embed/u56yE70svqI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 My current project at UA's Cartographic Research is working on the maps for the upcoming edition of *Rivers of North America*, a massive reference book that provides in-depth examinations of river systems across North America ([link to the previous edition of the book]). There are approximately two hundred maps to make for the book, and since each map covers individual watersheds that vary significantly in all aspects from size to topographic character, from the outset it became clear to me that this project would require that I make deliberate choices to ensure that the mapmaking process could be streamlined as much as possible.
 
