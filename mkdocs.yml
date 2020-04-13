@@ -21,8 +21,8 @@ theme:
     palette:
       primary: 'brown'
       accent: 'brown'
-    logo:
-      icon: 'terrain'
+    icon:
+      logo: material/terrain
     feature:
       tabs: true
     font: 'Open Sans'
