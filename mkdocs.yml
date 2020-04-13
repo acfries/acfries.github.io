@@ -8,9 +8,10 @@ markdown_extensions:
   - admonition
 
 nav:
-  - Home: index.md
-  - Resume: resume/index.md
-  - About: about/index.md
+  - Navigation: 
+    - Home: index.md
+    - Resume: resume/index.md
+    - About: about/index.md
 
 remote_branch: master
 
@@ -23,6 +24,8 @@ theme:
     accent: brown
   icon:
     logo: material/terrain
+  features:
+    - tabs
   font: Open Sans
   favicon: img/logo.ico
 
