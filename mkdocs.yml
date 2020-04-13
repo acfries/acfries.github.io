@@ -15,18 +15,18 @@ nav:
 remote_branch: master
 
 theme:
-    name: material
-    custom_dir: theme
-    language: en
-    palette:
-      primary: brown
-      accent: brown
-    icon:
-      logo: material/terrain
-    features:
-      - tabs
-    font: Open Sans
-    favicon: img/logo.ico
+  name: material
+  custom_dir: theme
+  language: en
+  palette:
+    primary: brown
+    accent: brown
+  icon:
+    logo: material/terrain
+  features:
+    - tabs
+  font: Open Sans
+  favicon: img/logo.ico
 
 extra_css:
   - stylesheets/extra.css
