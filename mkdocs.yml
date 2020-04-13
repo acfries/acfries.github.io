@@ -12,24 +12,24 @@ nav:
   - Resume: resume/index.md
   - About: about/index.md
 
-remote_branch: 'master'
+remote_branch: master
 
 theme:
-    name: 'material'
-    custom_dir: 'theme'
-    language: 'en'
+    name: material
+    custom_dir: theme
+    language: en
     palette:
-      primary: 'brown'
-      accent: 'brown'
+      primary: brown
+      accent: brown
     icon:
       logo: material/terrain
     features:
       - tabs
-    font: 'Open Sans'
-    favicon: 'img/logo.ico'
+    font: Open Sans
+    favicon: img/logo.ico
 
 extra_css:
-  - 'stylesheets/extra.css'
+  - stylesheets/extra.css
 
 extra:
   social: 
