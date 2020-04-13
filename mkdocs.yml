@@ -8,9 +8,10 @@ markdown_extensions:
   - admonition
 
 nav:
-  - Navigation: 
-    - Home: index.md
+  - Home: index.md
+  - Resume: 
     - Resume: resume/index.md
+  - About: 
     - About: about/index.md
 
 remote_branch: master
