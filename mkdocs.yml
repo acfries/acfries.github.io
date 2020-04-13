@@ -20,11 +20,12 @@ theme:
   language: en
   palette:
     primary: brown
-    accent: brown
+    accent: amber
   icon:
     logo: material/terrain
   features:
     - tabs
+    - instant
   font: Open Sans
   favicon: img/logo.ico
 
