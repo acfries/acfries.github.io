@@ -1,9 +1,5 @@
 site_name: Maps by Alex Fries
 
-plugins:
-  - awesome-pages:
-      filename: .pages.yml
-
 markdown_extensions:
   - admonition
 
