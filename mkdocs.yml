@@ -1,7 +1,6 @@
 site_name: Maps by Alex Fries
 
-plugins:
-  - mkdocs-nav-enhancements
+plugins: []
 
 markdown_extensions:
   - admonition
