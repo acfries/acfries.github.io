@@ -1,5 +1,7 @@
 site_name: Maps by Alex Fries
 
+plugins: []
+
 markdown_extensions:
   - admonition
 
