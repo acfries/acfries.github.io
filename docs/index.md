@@ -90,9 +90,9 @@ Please feel free to browse and explore some of the maps I've created or contribu
 		</div>
 	</div>
 	<div class="entry">
-		<a href="portfolio/hythesis"><img class="thumb" src="img/sagraph_thumb.jpg" alt=""></a>
+		<a href="portfolio/undergrad_thesis"><img class="thumb" src="img/sagraph_thumb.jpg" alt=""></a>
 		<div class="thumb_label">
-			<div class="label_text"><a href="portfolio/hythesis">Perceptions of South America in the Mid-Nineteenth Century United States</a></div>
+			<div class="label_text"><a href="portfolio/undergrad_thesis">Perceptions of South America in the Mid-Nineteenth Century United States</a></div>
 		</div>
 	</div>
 </div>
