@@ -1,4 +1,4 @@
-# Views of South America in the Mid-Nineteenth Century United States
+# Perceptions of South America in the Mid-Nineteenth Century United States
 ---
 
 <div class="feature_multi">
