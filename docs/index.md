@@ -6,9 +6,9 @@ Please feel free to browse and explore some of the maps I've created or contribu
 
 <div class="gallery">
 	<div class="entry">
-		<a href="portfolio/alabama"><img class="thumb" src="img/alabama_thumb.jpg" alt=""></a>
+		<a href="portfolio/thesis"><img class="thumb" src="img/thesis_thumb.jpg" alt=""></a>
 		<div class="thumb_label">
-			<div class="label_text"><a href="portfolio/alabama">Alabama: Its Landforms and Natural Features</a></div>
+			<div class="label_text"><a href="portfolio/masters-thesis">Visualizing Historical Causes of Urbanization in Alabama</a></div>
 		</div>
 	</div>
 	<div class="entry">
@@ -39,6 +39,12 @@ Please feel free to browse and explore some of the maps I've created or contribu
 		<a href="portfolio/na_physioregions"><img class="thumb" src="img/na_physioregions_thumb.jpg" alt=""></a>
 		<div class="thumb_label">
 			<div class="label_text"><a href="portfolio/na_physioregions">Physiographic Regions of North America</a></div>
+		</div>
+	</div>
+	<div class="entry">
+		<a href="portfolio/alabama"><img class="thumb" src="img/alabama_thumb.jpg" alt=""></a>
+		<div class="thumb_label">
+			<div class="label_text"><a href="portfolio/alabama">Alabama: Its Landforms and Natural Features</a></div>
 		</div>
 	</div>
 	<div class="entry">

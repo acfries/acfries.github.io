@@ -1,20 +1,6 @@
-# Views of South America in the Mid-Nineteenth Century United States
----
+# Visualizing Historical Causes of Urbanization in Alabama
 
-<div class="feature_multi">
-	<div class="entry">
-		<a href="../../img/sagraph01.jpg"><img class="thumb" src="../../img/sagraph01.jpg" alt=""></a>
-		<div class="thumb_label">
-			<div class="label_text"><a href="img/sagraph01.jpg">English-language travelogue descriptions of South American Nations</a></div>
-		</div>
-	</div>
-	<div class="entry">
-		<a href="../../img/sagraph02.jpg"><img class="thumb" src="../../img/sagraph02.jpg" alt=""></a>
-		<div class="thumb_label">
-			<div class="label_text"><a href="../../img/sagraph02.jpg">Travelogue descriptions of South American Nations published in the United States</a></div>
-		</div>
-	</div>
-</div>
+<a href="../../img/thesis.jpg"><img class="feature_full" src="../../img/thesis.jpg" alt=""></a>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis ut diam quam nulla porttitor massa id neque aliquam. Duis convallis convallis tellus id. Magna fringilla urna porttitor rhoncus dolor purus. Sagittis purus sit amet volutpat consequat. Viverra ipsum nunc aliquet bibendum enim. Vulputate enim nulla aliquet porttitor lacus luctus accumsan tortor posuere. Eu consequat ac felis donec et odio pellentesque. Facilisis gravida neque convallis a cras semper auctor. Ac turpis egestas sed tempus urna et. Faucibus in ornare quam viverra orci sagittis. Sed tempus urna et pharetra pharetra massa.
 
