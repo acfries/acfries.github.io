@@ -14,7 +14,7 @@ Please feel free to browse and explore some of the maps I've created or contribu
 	<div class="entry">
 		<a href="portfolio/riversofna"><img class="thumb" src="img/RoNA_Klondike_thumb.jpg" alt=""></a>
 		<div class="thumb_label">
-			<div class="label_text"><a href="portfolio/bankhead">Rivers of North America</a></div>
+			<div class="label_text"><a href="portfolio/riversofna">Rivers of North America</a></div>
 		</div>
 	</div>
 	<div class="entry">
